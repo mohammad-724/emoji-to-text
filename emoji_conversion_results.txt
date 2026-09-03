@@ -1,0 +1,18 @@
+--- Emoji to Text Conversion Results ---
+
+1. Basic Conversion:
+Original: Hello 😊! How are you? 👍
+Converted: Hello :smiling_face_with_smiling_eyes:! How are you? :thumbs_up:
+
+2. Multilingual (Spanish) Conversion:
+Original: Hello 😊! How are you? 👍
+Converted (Spanish): Hello [sonriendo]! How are you? [pulgar arriba]
+
+3. Extended Emoji Conversion:
+Original (partial): 😀 😃 😄 😁 😆 😅 😂 🤣 😊 😇 🙂 🙃 😉 😌 😍 🥰 😘 😗 😙 😚 ❤️ 👍 👎 🔥 🎉 🚀...
+Converted: :grinning_face: :grinning_face_with_big_eyes: :grinning_face_with_smiling_eyes: :beaming_face_with_smiling_eyes: :grinning_squinting_face: :grinning_face_with_sweat: :face_with_tears_of_joy: :rolling_on_the_floor_laughing: :smiling_face_with_smiling_eyes: :smiling_face_with_halo: :slightly_smiling_face: :upside-down_face: :winking_face: :relieved_face: :smiling_face_with_heart-eyes: :smiling_face_with_hearts: :face_blowing_a_kiss: :kissing_face: :kissing_face_with_smiling_eyes: :kissing_face_with_closed_eyes: :red_heart: :thumbs_up: :thumbs_down: :fire: :party_popper: :rocket:
+
+4. Interactive Input Conversion:
+Original: ❤️
+Converted: :red_heart:
+
