@@ -1,8 +1,9 @@
 live link:  https://mohammad-724.github.io/emoji-to-text/
 
+
 # 😊 Emoji to Text Converter
 
-A simple Python project that converts emojis from user-provided text into descriptive text using the `emoji` Python library. The program also demonstrates basic multilingual emoji conversion and saves all conversion results into a text file.
+A simple Python project that converts emojis from user-provided text into descriptive text using the `emoji` Python library. The program also demonstrates basic multilingual emoji conversion and saves all conversion results into a text formattedd file.
 
 ## 📌 Project Overview
 
